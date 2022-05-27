@@ -4,13 +4,16 @@
 This application allows the user to search for any books and then save them based on their preference and store them using a secured login.
 
 ## Screenshot
-![testing](./public/BookSearchEngine.png)
+![testing](./client/public/BookSearchEngine.png)
 
 
 ## GitHub Repo
 
 Repo: https://github.com/RekhaLeelara/BookSearchEngine
 
+## Application URL
+
+https://booksearchengine1218.herokuapp.com/
 
 ## Usage
 
